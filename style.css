@@ -8,7 +8,7 @@ body {
     font-family: Arial, sans-serif;
 }
 .card {
-    background: white;
+    background: rgb(238, 245, 217);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -18,11 +18,11 @@ body {
 .message {
     display: none;
     font-size: 18px;
-    color: #d6336c;
+    color: #828d31;
     margin-top: 10px;
 }
 button {
-    background: #ff4b5c;
+    background: #cd071b;
     color: white;
     border: none;
     padding: 10px 15px;
@@ -43,7 +43,7 @@ button:hover {
 }
 .heart {
     position: absolute;
-    color: red;
+    color: rgb(255, 247, 0);
     font-size: 20px;
     animation: float 4s infinite ease-in-out;
 }
